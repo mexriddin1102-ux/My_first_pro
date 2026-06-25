@@ -103,3 +103,7 @@ def get_address(message):
 # Botni uzluksiz ishga tushirish
 print("Bot muvaffaqiyatli ishga tushdi...")
 bot.infinity_polling()
+
+
+
+
